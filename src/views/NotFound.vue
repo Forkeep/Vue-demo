@@ -1,14 +1,12 @@
 <template>
-  <div>Statistics
-    <hr>
-    <Nav/>
-
+  <div>页面未找到....
+    <router-link to="/">返回首页</router-link>
   </div>
 </template>
 
 <script lang="ts">
   export default {
-    name: 'Statistics'
+    name: 'NotFound'
   };
 </script>
 
