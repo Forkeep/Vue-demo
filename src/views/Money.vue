@@ -1,8 +1,7 @@
 <template>
-  <div>money
-    <hr>
-    <Nav/>
-  </div>
+ <NavLayout>
+  money
+ </NavLayout>
 </template>
 
 <script lang="ts">

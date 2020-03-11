@@ -1,8 +1,7 @@
 <template>
-  <div>Labels
-    <hr>
-    <Nav/>
-  </div>
+  <NavLayout>
+    labels
+  </NavLayout>
 
 </template>
 
